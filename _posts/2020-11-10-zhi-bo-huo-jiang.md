@@ -1,9 +1,11 @@
 ---
+layout: post
 title:  "直播获奖"
 date:   2020-11-12
 excerpt: CSP题解。
 project: true
-tag: [CSP-2020-J]
+tag: 
+- CSP-2020-J
 comments: true
 ---
 ```c++
