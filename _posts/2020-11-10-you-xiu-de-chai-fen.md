@@ -3,7 +3,6 @@ layout: post
 title:  "优秀的拆分"
 date:   2020-11-10
 excerpt: CSP题解。
-project: true
 tag: 
 - CSP-2020-J
 comments: true

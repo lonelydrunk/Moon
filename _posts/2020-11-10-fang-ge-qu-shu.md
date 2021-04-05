@@ -3,7 +3,6 @@ layout: post
 title:  方格取数
 date:   2020-11-11
 excerpt: CSP题解。
-project: true
 tag:
 - CSP-2020-J
 comments: true
