@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "方格取数"
+title:  方格取数
 date:   2020-11-11
-excerpt: 
+excerpt: CSP题解。
 project: true
-tag:
-- CSP-2020-J
+tag: [CSP-2020-J]
 comments: true
 ---
 ```c++
